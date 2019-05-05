@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo 'Wow'
                 sh 'pwd'
+                sh 'yamllint test.yaml'
             }
         }
     }
