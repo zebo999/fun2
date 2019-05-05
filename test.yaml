@@ -1,6 +1,10 @@
+---
+
 kuku:
   - kuku-git
   - super
 
 bania:
-bania:
+  - git
+  - jednak
+  
